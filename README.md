@@ -1,1 +1,2 @@
-# project-bar
+# Project69
+Barcode Scanner
